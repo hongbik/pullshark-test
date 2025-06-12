@@ -1,3 +1,3 @@
 # Pull Shark Test
 
-This is teh sample repo to help earn the GitHub Pull Shark badge.
+This is the sample repo to help earn the GitHub Pull Shark badge.
